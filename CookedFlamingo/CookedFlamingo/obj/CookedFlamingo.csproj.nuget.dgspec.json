@@ -1,0 +1,48 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Steph/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/Visual Studio/CookedFlamingo/CookedFlamingo/CookedFlamingo.csproj": {}
+  },
+  "projects": {
+    "/Users/Steph/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/Visual Studio/CookedFlamingo/CookedFlamingo/CookedFlamingo.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Steph/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/Visual Studio/CookedFlamingo/CookedFlamingo/CookedFlamingo.csproj",
+        "projectName": "CookedFlamingo",
+        "projectPath": "/Users/Steph/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/Visual Studio/CookedFlamingo/CookedFlamingo/CookedFlamingo.csproj",
+        "packagesPath": "/Users/Steph/.nuget/packages/",
+        "outputPath": "/Users/Steph/Library/Mobile Documents/com~apple~CloudDocs/Documents/Code/Visual Studio/CookedFlamingo/CookedFlamingo/obj/",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "/Users/Steph/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "xamarinios10"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "xamarinios10": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "xamarinios10": {}
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

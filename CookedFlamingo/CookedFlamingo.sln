@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CookedFlamingo", "CookedFlamingo\CookedFlamingo.csproj", "{75B0DBA9-FBA8-45B5-9931-B9826B9A8BE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75B0DBA9-FBA8-45B5-9931-B9826B9A8BE3}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{75B0DBA9-FBA8-45B5-9931-B9826B9A8BE3}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{75B0DBA9-FBA8-45B5-9931-B9826B9A8BE3}.Release|iPhone.ActiveCfg = Release|iPhone
+		{75B0DBA9-FBA8-45B5-9931-B9826B9A8BE3}.Release|iPhone.Build.0 = Release|iPhone
+		{75B0DBA9-FBA8-45B5-9931-B9826B9A8BE3}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{75B0DBA9-FBA8-45B5-9931-B9826B9A8BE3}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{75B0DBA9-FBA8-45B5-9931-B9826B9A8BE3}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{75B0DBA9-FBA8-45B5-9931-B9826B9A8BE3}.Debug|iPhone.Build.0 = Debug|iPhone
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15AEB261-D413-40FA-8C97-A231BC47EB69}
+	EndGlobalSection
+EndGlobal
